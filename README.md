@@ -11,6 +11,7 @@
 ## A. Prosedur Awal
 ### 1. Melakukan instal Git ke PC/Laptop
 	https://git-scm.com/downloads
+   ![gif cafe](picture/gambar.gif)
 ### 2. Membuat akun Github
 	https://github.com/join
 ### 3. Melakukan setting pada Git Bash atau Terminal
